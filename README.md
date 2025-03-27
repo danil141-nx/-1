@@ -15,7 +15,7 @@
             width: 80%;
             margin: 20px auto;
             border-collapse: collapse;
-            background-color: rgba(0, 0, 0, 0.5);
+            background-color: rgba(0, 1, 1, 0.5);
         }
         th, td {
             border: 1px solid white;
